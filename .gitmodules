@@ -1,0 +1,6 @@
+[submodule "dev-desk-front"]
+	path = dev-desk-front
+	url = https://github.com/potentialwook/dev-desk-front.git
+[submodule "dev-desk-back"]
+	path = dev-desk-back
+	url = https://github.com/potentialwook/dev-desk-back.git
